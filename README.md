@@ -34,5 +34,4 @@ I specialize in building scalable backend systems and modern fullstack web appli
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" height="36" />
 <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="36" />
 </p>
-
 ![Snake animation](https://github.com/PeaceMelodi/PeaceMelodi/blob/output/github-contribution-grid-snake-dark.svg)
