@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋 I'm Peace
 
-<!--
-**PeaceMelodi/PeaceMelodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer  
+⚡ React | React Native | Node.js  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react)
+
+![React Native](https://img.shields.io/badge/react%20native-%2320232a.svg?style=for-the-badge&logo=react)
+
+![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js)
+
+![MongoDB](https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb)
+
+---
+
+## 📊 GitHub Stats
+
+![Peace's GitHub stats](https://github-readme-stats.vercel.app/api?username=PeaceMelodi&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PeaceMelodi)
