@@ -10,10 +10,7 @@ I specialize in building scalable backend systems and modern fullstack web appli
 
 * 🖥️  See my portfolio at [MyPortfolio](http://peacemelodi.github.io/)
 * ✉️  You can contact me at [peacemelodi1@gmail.com](mailto:peacemelodi1@gmail.com)
-
 ![Snake animation](https://github.com/PeaceMelodi/PeaceMelodi/blob/output/github-contribution-grid-snake-dark.svg)
-
-
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="36" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="36" />
