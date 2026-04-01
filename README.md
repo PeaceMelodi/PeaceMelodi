@@ -33,6 +33,8 @@ I specialize in building scalable backend systems and modern fullstack web appli
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" height="36" />
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" height="36" />
 <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="36" />
+<img src="https://img.shields.io/badge/Neon-00E4D0?style=for-the-badge&logo=neon&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="28" />
 </p>
 
 ![Snake animation](https://github.com/PeaceMelodi/PeaceMelodi/blob/output/github-contribution-grid-snake-dark.svg)
