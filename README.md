@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Peace Melodi
 =====================================================================================================================================
 
-Fullstack Web developer
+Backend Software Engineer
 -----------------------
 
-Fullstack & Backend Developer — Building real products with clean code and sharp architecture.
+Backend Software Engineer. Building secure, scalable and well architected server systems.
 
 I specialize in building scalable backend systems and modern fullstack web applications. I love turning ideas into real, deployed, working products.
 
