@@ -12,6 +12,7 @@ I specialize in building scalable backend systems and modern fullstack web appli
 * ✉️  You can contact me at [peacemelodi1@gmail.com](mailto:peacemelodi1@gmail.com)
 
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="36" />
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" height="36" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="36" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="36" />
